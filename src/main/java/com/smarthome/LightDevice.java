@@ -6,6 +6,6 @@ private boolean switchOn = true;
    @Override
     public void turningOff(){
         switchOn =false;
-        System.out.println("Toggle for Light switch");
+        System.out.println(" Toggle for Light switch to Off ");
      }
 }
